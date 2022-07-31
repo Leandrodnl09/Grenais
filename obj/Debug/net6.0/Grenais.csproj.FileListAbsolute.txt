@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\bin\Debug\net6.0\Grenais.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\bin\Debug\net6.0\Grenais.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\bin\Debug\net6.0\Grenais.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\bin\Debug\net6.0\Grenais.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\bin\Debug\net6.0\Grenais.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\refint\Grenais.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\Grenais.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Grenais\obj\Debug\net6.0\ref\Grenais.dll
